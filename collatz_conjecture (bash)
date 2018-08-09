@@ -1,0 +1,52 @@
+#!/bin/bash
+
+#setting the counter of steps to 0
+
+((counter = 0))
+
+
+echo "Enter a integer greater than 1"
+
+read int
+
+#int checker
+
+if ((int <= 1))
+then
+
+	echo "The integer isn't greater than 1"
+	exit 1
+
+fi
+
+# infinite while loop until int = 1
+
+while [[ 1 == 1 ]]
+do
+	#mod tester
+
+	((int_mod = int % 2))
+
+	#break condition (int = 1) and print the number of steps to reach 1
+
+	if [[ $int == 1 ]]
+	then
+
+		echo "The number of steps to reach 1 are: "$counter
+		exit 1
+	fi
+
+	# int parity checker and acting according collatz rules
+
+	if [[ $int_mod == 0 ]] 
+		then
+	
+			((int = int / 2))
+			((counter++))
+
+		else
+	
+			((int = 3 * int + 1))
+			((counter++))
+	fi
+done
