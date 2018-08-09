@@ -1,0 +1,39 @@
+#!/bin/bash
+
+read -p $'Enter a positive integer to show the next prime number: ' int
+
+# positive int checker
+
+if (( $int <= 0 ))
+	then
+	echo "The integer isn't positive"
+	exit 1
+fi
+
+#adds one to the user input
+
+(( next_int = $int + 1 ))
+
+#starts as 2 for the reason that if it were 1 it would always divisible (and would return an integer)
+
+(( int_checker = 2 ))
+
+
+#check if number is prime
+
+while (( $next_int > $int_checker ))
+do
+
+	#if next number not prime reset int_checker and jump to next number
+
+	if (( $(( $next_int % $int_checker )) == 0 ))
+		then
+		((next_int++))
+		((int_checker = 2))
+	fi
+
+	((int_checker++))
+
+done
+
+echo "The next prime integer is: " $next_int
