@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#Read the input data
+
+read -p $'Enter a positive integer or zero to find its factorial: ' int
+
+#the variable where the produtc of the multiplications are stored
+
+(( int_prod = 1 ))
+
+#check if it is a positive int or 0 and if its a positive int, multiply all the sucesive numbers until it tries to multiply by 1
+
+if (( int < 0 )) ; then
+	echo "The integer isn't positive or zero"
+	exit 1
+elif (( int == 0 )) ; then
+	echo "It's factorial is 1"
+else
+	while (( int >= 1 )) ; do
+			(( int_prod = $int_prod * $int ))
+			(( int-- ))
+		done
+
+	echo "It's factorial is " $int_prod
+fi
