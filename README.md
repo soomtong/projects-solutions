@@ -56,6 +56,7 @@ Numbers
 - [STTR13 (Java)](https://github.com/STTR13/MegaProjectList-STTR13solutions/blob/master/Pi.java)
 - [1andre-santos1 (C#)](https://github.com/1andre-santos1/FindPI-To-The-Nth-Digit/blob/master/FindPI/Program.cs)
 - [darktuxknight (Python)](https://github.com/DarktuxKnight/RandomProject/blob/master/PItoN.py)
+- [mnpal (C++)](https://github.com/mnpal/selfProjects/blob/master/Numbers/find_pi_to_nth_digit.cpp)
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that decimal places. Keep a limit to how much the program will go.
 
