@@ -132,6 +132,7 @@ Numbers
 - [paatus (Erlang)](https://github.com/Paatus/erlang_solutions/blob/master/fib_seq.erl)
 - [CodeInnovator (Java)](https://github.com/CodeInnovator/Small-Projects/blob/master/JavaMegaProjectList/src/numbers/JavaMegaProjectList/codeInnovator/Fibonacci.java)
 - [iamvoid13 (C++)](https://github.com/iamvoid13/Programs/blob/master/src/fibonacci.cpp)
+- [vujaaa88 (Java)](https://github.com/vujaaa88/fibonacci/blob/master/src/demo/FibonacciSequence.java)
 - [josephyhu (JavaScript)](https://github.com/josephyhu/Fibonacci-Sequence-in-JS/blob/master/js/script.js)
 - [kishorerabha (C++)](https://github.com/kishorerabha/hello-world/blob/master/fibonacci.cpp)
 - [TechThrust (Rust)](https://github.com/TechThrust/Rust-Projects/blob/master/fibonacci_sequence/src/main.rs)
