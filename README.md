@@ -580,6 +580,7 @@ Text
 - [baarb (JavaScript)](https://github.com/baarb/FizzBuzzSolution/blob/master/FizzBuzzSolution.js)
 - [korabum (Python)](https://github.com/korabum/Projects/blob/master/Text/fizzbuzz.py)
 - [danman1979 (JavaScript)](https://github.com/danman1979/FizzBuzz/blob/master/fizzBuzz.js)
+- [Kamuish (C)](https://github.com/Kamuish/karan-projects/blob/master/fizz_buzz.c)
 - [jkaeuffer(Python)](https://github.com/jkaeuffer/PythonStuff/blob/master/quick/fizzbuzz.py)
 - [awake040 (C++)](https://github.com/awake040/cpplowlife/blob/master/FizzBuzz.cpp)
 - [Big-Burner(C#)](https://github.com/Big-Burner/FizzBuzz/blob/master/FizzBuzz)
