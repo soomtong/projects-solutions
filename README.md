@@ -330,6 +330,7 @@ Numbers
 - [petehuang (Ruby)](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb)
 - [dabillox (Python)](https://github.com/dabillox/pyprojects/blob/master/citydistance.py)
 - [kingballer29 (C)](https://github.com/kingballer29/Programming/blob/master/distanceBetweenTwoCities.c)
+- [SharpBit (Rust)](https://github.com/SharpBit/city-distance/blob/master/src/main.rs)
 - [igorfala (Python)](https://github.com/igorfala/karan-projects/blob/master/Numbers/distance.py)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/13.%20Distance%20between%20two%20cities.sql)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/Haversine-Formula-Distance-Between-Two-Cities.scala)
