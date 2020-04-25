@@ -79,6 +79,7 @@ Numbers
 - [dkat90 (JavaScript)](https://github.com/dkat90/solution-to-e)
 - [karthik-rp (JavaScript)](https://github.com/karthik-rp/MegaProjectListSolutions/blob/master/Numbers/e_nt.js)
 - [microice333 (Python)](https://github.com/microice333/Python-projects/blob/master/n_digit_e.py)
+- [Vekz (Python)](https://github.com/Vekz/Projects-Solutions/blob/master/Projects/Find_e_to_the_Nth_Digit/efinder.py)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/2.%20Find%20e%20to%20the%20Nth%20Digit.sql)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
