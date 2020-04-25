@@ -318,6 +318,7 @@ Numbers
 - [Drhealsgood (Python)](https://github.com/Drhealsgood/miniprojects/blob/master/number_projects/conversion/conversions.py)
 - [desertwebdesigns (Python)](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/unit_convert.py)
 - [kurokuriboh (Java)](https://github.com/kurokuriboh/Mega_Project_Solutions/tree/master/Numbers/Unit%20Converter)
+- [charleslarnold (Python)](https://github.com/charleslarnold/currency_converter/blob/master/currency.py)
 - [thebaron2 (C#)](https://github.com/thebaron2/UnitConverter)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/11.%20Unit%20Converter%20(temp%2C%20currency%2C%20volume%2C%20mass%20and%20more).sql)
 
