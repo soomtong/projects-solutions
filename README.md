@@ -752,6 +752,7 @@ Text
 - [cahitonur (Python)](https://github.com/cahitonur/mini-project/blob/master/horoscope/horoscope.py)
 - [tapasweni-pathak (Python)](https://github.com/tapasweni-pathak/Scripts/blob/master/Your-Horoscope.py)
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/horoscope.sh)
+- [agronv (Python)](https://github.com/agronv/horoscope/blob/master/horo.py)
 - [humbhenri (Rust)](https://github.com/humbhenri/karanProjectSolutions/tree/master/horoscope)
 
 **Vigenere / Vernam / Caesar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend.
