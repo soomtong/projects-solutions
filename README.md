@@ -179,6 +179,7 @@ Numbers
 - [kvsingh (Python)](https://github.com/kvsingh/python-practice/blob/master/primeFactors.py)
 - [hkuchampudi (Java)](https://github.com/hkuchampudi/MegaProject_Solutions/blob/master/Numbers/prime_Factorization.java)
 - [viktorahlstrom (Bash)](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/pf.sh)
+- [kishorerabha (C++)](https://github.com/kishorerabha/hello-world/blob/master/Prime%20Factorization.cpp)
 - [rysenB (C#)](https://github.com/rysenB/primeFactorization/blob/master/primeFactorization.cs)
 - [TechThrust (Rust)](https://github.com/TechThrust/Rust-Projects/blob/master/prime_factorization/src/main.rs)
 - [anameus (JavaScript)](https://github.com/anameus/mathy-solutions/blob/master/primeFactorization/app.js)
