@@ -786,7 +786,11 @@ Text
 - [Rnhmjoj (Python)](https://gist.github.com/Rnhmjoj/6140266)
 - [dotslash (Python)](https://github.com/dotslash/Projects/blob/master/solutions/regex.py)
 
-Networking
+**Google Case Problem** - Converts a given string to google case.A google case string is a string in which all the words are converted to upper case just leaving the initial letters of each word (ex:gOOGLE cASE).
+
+- [Amanjakhetiya (C++)](https://github.com/Amanjakhetiya/gOOGLE-cASE.c/blob/master/googlecase.c)
+
+ Networking
 ---------
 
 **FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever.
