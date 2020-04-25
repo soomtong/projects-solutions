@@ -823,6 +823,7 @@ Text
 - [jbruno2 (C++)](https://github.com/jbruno2/SimplePortScanner/blob/master/portscanner.cpp)
 - [dawdler (Python)](https://github.com/dawdler/Projects/blob/master/port_scanner.py)
 - [smd519 (C)](https://github.com/smd519/Networking_Basics/tree/master/Port_Scanner)
+- [winterlinn (C)](https://github.com/winterlinn/yetanotherportscanner)
 - [alectic (Go)](https://github.com/alectic/go-portscanner-example)
 - [amoraitis (Java)](https://github.com/amoraitis/trying/tree/master/java/checkingPorts)
 - [pedroviniv (Java)](https://github.com/pedroviniv/port-scanner/blob/master/src/main/java/io/kieckegard/github/port/scanner/PortScanner.java)
