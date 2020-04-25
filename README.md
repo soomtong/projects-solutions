@@ -974,6 +974,8 @@ Databases
 
 **Event Scheduler and Calendar** - Make an application which allows the user to enter a date and time of an event, event notes and then schedule those events on a calendar. The user can then browse the calendar or search the calendar for specific events. *Optional: Allow the application to create re-occurrence events that reoccur every day, week, month, year etc.*
 
+- [alice-0-kim (JavaScript)](https://github.com/alice-0-kim/scheduler)
+
 **Budget Tracker** - Write an application that keeps track of a household’s budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. *Optional: Allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.*
 
 **Address Book** - Keep track of various contacts, their numbers, emails and little notes about them like a Rolodex in the database.
