@@ -680,6 +680,7 @@ Text
 - [tiikeri (Java)](https://github.com/tiikeri/all/blob/master/java/piglatin.java)
 - [eush77 (Befunge)](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/piglatin.bf)
 - [pinkninjajess (Ruby)](https://github.com/pinkninjajess/Projects/blob/master/JV_Solutions/pigLatin.rb)
+- [bongotw (Java)](https://github.com/bongotw/Pig-Latin/blob/master/src/piglatin/PigLatin.java)
 - [rhnvrm (Python)](https://github.com/rhnvrm/mini-projects/blob/master/piglatin.py)
 - [yomi-oyewole (C#)](https://github.com/yomi-oyewole/ConsoleApp/blob/master/ConsoleApp1/Exercise/PigLatin.cs)
 
