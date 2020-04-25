@@ -310,6 +310,7 @@ Numbers
 - [zdw27f (Python)](https://github.com/zdw27f/Projects/blob/master/Numbers/Calculator/main.py)
 - [sedj601 (Java)](https://github.com/sedj601/CalculatorFx)
 - [wildautumnwind (PHP)](https://github.com/wildautumnwind/calculator)
+- [THElysian (C)](https://github.com/THElysian/Basic-Maths-Assistant)
 - [KarthikeyaRemilla (Python)](https://github.com/KarthikeyaRemilla/Projects/blob/master/Calculator.py)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/ScalaCalculator.scala)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/10.%20Calculator.sql)
