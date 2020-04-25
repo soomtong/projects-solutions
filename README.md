@@ -228,6 +228,7 @@ Numbers
 - [kingballer29 (Scala)](https://github.com/kingballer29/Programming/blob/master/floorTileCostCalculator.scala)
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/wxhfloor.sh)
 - [tiikeri (Java)](https://github.com/tiikeri/all-java/blob/master/floor.java)
+- [swapnil-ingle (Java)](https://github.com/Swapnil-ingle/Java-Practice-Programs/blob/master/CostOfTile.Java)
 - [igorfala (Python)](https://github.com/igorfala/karan-projects/blob/master/Numbers/tile.py)
 - [varunu28 (Python)](https://github.com/varunu28/100-Push-Project/blob/master/cost_of_tile.py)
 - [mandeepbhutani (Python)](https://github.com/mandeepbhutani/Sample-Projects/blob/master/Cost_Cover_Room.py)
