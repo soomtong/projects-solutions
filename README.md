@@ -48,6 +48,7 @@ Numbers
 - [nicknesser (Java)](https://github.com/nicknesser/Nick-Math/blob/master/Pi_to_nth_decimal)
 - [microice333 (Python)](https://github.com/microice333/Python-projects/blob/master/n_digit_pi.py)
 - [wildautumnwind (PHP)](https://github.com/wildautumnwind/Digits-of-Pi)
+- [braemElliot (C++)](https://github.com/elliotBraem/Pi_Nth_Digit/blob/master/Pi_Nth_Digit/Program.cs)
 - [SammyFlamingo (Java)](https://github.com/SammyFlamingo/PiCalculator.git)
 - [mosesajire (PHP)](https://github.com/mosesajire/pi-generator)
 - [afarkas2508 (C#)](https://github.com/afarkas2508/FindPI)
@@ -279,7 +280,7 @@ Numbers
 - [yusufmalikul (Java)](https://github.com/yusufmalikul/Java/blob/master/src/Calculator.java)
 - [varunu28 (Python)](https://github.com/varunu28/100-Push-Project/blob/master/calculator.py)
 - [zdw27f (Python)](https://github.com/zdw27f/Projects/blob/master/Numbers/Calculator/main.py)
-- [sedj601 (Java)](https://github.com/sedj601/CalculatorFx) 
+- [sedj601 (Java)](https://github.com/sedj601/CalculatorFx)
 - [wildautumnwind (PHP)](https://github.com/wildautumnwind/calculator)
 - [KarthikeyaRemilla (Python)](https://github.com/KarthikeyaRemilla/Projects/blob/master/Calculator.py)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/ScalaCalculator.scala)
@@ -929,7 +930,7 @@ Files
 - [melvin0008 (PHP)](https://github.com/melvin0008/quizcreator)
 - [othreecodes (Java)](https://github.com/othreecodes/quizmaster)
 
-**Remove comments from a cpp/c file**- make a program which takes a c or a cpp file and removes all the comments and make a new file. 
+**Remove comments from a cpp/c file**- make a program which takes a c or a cpp file and removes all the comments and make a new file.
 
 - [deep5050 (C++)](https://github.com/deep5050/remove-comment-from-cpp)
 
