@@ -202,6 +202,7 @@ Numbers
 - [psk11 (JavaScript)](https://gist.githubusercontent.com/psk11/76e00e2aa8f5c00bf8c7/raw/d5bfe67022e25a78f02691d702c16b124c969053/NextPrime.html)
 - [chibby0ne (C)](https://github.com/chibby0ne/Projects/blob/master/Solutions/Numbers/next_prime_number/next_prime_number.c)
 - [hkuchampudi (Java)](https://github.com/hkuchampudi/MegaProject_Solutions/blob/master/Numbers/next_Prime.java)
+- [gravito (python)](https://github.com/gravito/Projects/blob/master/Numbers/gp.py)
 - [igorfala (Python)](https://github.com/igorfala/karan-projects/blob/master/Numbers/prime.py)
 - [varunu28 (Python)](https://github.com/varunu28/100-Push-Project/blob/master/next_prime.py)
 - [AlexCheungy (C++)](https://github.com/AlexCheungy/Project-Collection/blob/master/Project-Solutions/findNextPrime.cpp)
