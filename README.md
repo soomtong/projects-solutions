@@ -704,6 +704,7 @@ Text
 - [chrislyc1991 (C++)](https://github.com/chrislyc1991/project-1/blob/master/CountVowels.cpp)
 - [eush77 (Befunge)](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/count-vowels.bf)
 - [baarb (JavaScript)](https://github.com/baarb/CountVowelsSolution/blob/master/CountVowelsSolution.js)
+- [kattstof(Python)](https://github.com/kattstof/vowelsolution/blob/master/vowels.py)
 - [JasonTurley (Python)](https://github.com/JasonTurley/vowel-counter)
 - [chicken-pie (C)](https://github.com/chicken-pie/Projects/blob/master/Text/Count%20Vowels.md)
 - [Muneeb (JavaScript)](https://github.com/muneebkhan7737/Count-vowels/blob/master/app.js)
