@@ -475,6 +475,7 @@ Classic Algorithms
 - [kingballer29 (C++)](https://github.com/kingballer29/Programming/blob/master/collatzConjecture.cpp)
 - [manateemilitia (Java)](https://github.com/manateemilitia/CollatzJava/blob/master/CollatzJava/src/collatzjava/CollatzJava.java)
 - [viktorahlstrom (Python)](https://github.com/viktorahlstrom/pythonscripts/blob/master/collatz_conjecture.py)
+- [a-omar-git (Java)](https://github.com/a-omar-git/Projects/blob/master/Classic%20Algorithms/Collatz.java)
 - [Kamuish (C)](https://github.com/Kamuish/karan-projects/blob/master/collatz.c)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/CollatzAlgorithm.Scala)
 - [SaiG18 (Java)](https://github.com/SaiG18/Collatz-Conjecture/blob/master/Collatz.java)
