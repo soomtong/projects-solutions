@@ -473,6 +473,7 @@ Classic Algorithms
 - [kingballer29 (C++)](https://github.com/kingballer29/Programming/blob/master/collatzConjecture.cpp)
 - [manateemilitia (Java)](https://github.com/manateemilitia/CollatzJava/blob/master/CollatzJava/src/collatzjava/CollatzJava.java)
 - [viktorahlstrom (Python)](https://github.com/viktorahlstrom/pythonscripts/blob/master/collatz_conjecture.py)
+- [Kamuish (C)](https://github.com/Kamuish/karan-projects/blob/master/collatz.c)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/CollatzAlgorithm.Scala)
 - [SaiG18 (Java)](https://github.com/SaiG18/Collatz-Conjecture/blob/master/Collatz.java)
 - [tiikeri (Python)](https://github.com/tiikeri/pythonscripts/blob/master/collatz_conjecture.py)
