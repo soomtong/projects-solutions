@@ -602,6 +602,7 @@ Text
 - [baarb (JavaScript)](https://github.com/baarb/FizzBuzzSolution/blob/master/FizzBuzzSolution.js)
 - [korabum (Python)](https://github.com/korabum/Projects/blob/master/Text/fizzbuzz.py)
 - [danman1979 (JavaScript)](https://github.com/danman1979/FizzBuzz/blob/master/fizzBuzz.js)
+- [Dinoosawruss (Python)](https://github.com/Dinoosawruss/Projects/tree/master/FizzBuzz)
 - [bajseps (C++)](https://github.com/bajseps/Little-projects/blob/master/FizzBuzz.cpp)
 - [Trollport (C++)](https://github.com/Trollport/FizzBuzz/blob/master/FizzBuzz.cpp)
 - [shanicesmith98 (C++)](https://github.com/shanicesmith98/FizzBuzz/blob/master/cpluscplus-fizzbuzz.cpp)
