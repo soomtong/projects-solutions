@@ -721,6 +721,7 @@ Text
 - [tiikeri (Python)](https://github.com/tiikeri/all/blob/master/python/pdrome.py)
 - [rnikhil275 (Python](https://github.com/rnikhil275/scripts/blob/master/string.py)
 - [Mohammadhassanj (Python)](https://github.com/mohammadhassanj/project/blob/master/palindrome.py)
+- [Albin Antony (C++)](https://gist.github.com/albIN7/22066c2ce069b748a8d73303517bee9d)
 - [chicken-pie (C)](https://github.com/chicken-pie/Projects/blob/master/Text/Check%20if%20Palindrome.md)
 - [yomi-oyewole (C#)](https://github.com/yomi-oyewole/ConsoleApp/blob/master/ConsoleApp1/Exercise/Palindrome.cs)
 
