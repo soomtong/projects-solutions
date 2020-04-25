@@ -128,6 +128,7 @@ Numbers
 - [paatus (Erlang)](https://github.com/Paatus/erlang_solutions/blob/master/fib_seq.erl)
 - [CodeInnovator (Java)](https://github.com/CodeInnovator/Small-Projects/blob/master/JavaMegaProjectList/src/numbers/JavaMegaProjectList/codeInnovator/Fibonacci.java)
 - [iamvoid13 (C++)](https://github.com/iamvoid13/Programs/blob/master/src/fibonacci.cpp)
+- [gravito (Python)](https://github.com/gravito/Projects/blob/master/Numbers/fib.py)
 - [Repsi0 (Java)](https://github.com/Repsi0/Projects/blob/master/PROJECTS/Fibonacci/src/Main.java)
 - [GunaShekar02 (C)](https://github.com/GunaShekar02/Projects/blob/sample/fibo.c)
 - [Vekz (Python)](https://github.com/Vekz/Projects-Solutions/blob/master/Projects/Fibonacci%20Sequence/fibo.py)
