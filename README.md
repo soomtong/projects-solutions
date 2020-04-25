@@ -48,6 +48,7 @@ Numbers
 - [nicknesser (Java)](https://github.com/nicknesser/Nick-Math/blob/master/Pi_to_nth_decimal)
 - [microice333 (Python)](https://github.com/microice333/Python-projects/blob/master/n_digit_pi.py)
 - [wildautumnwind (PHP)](https://github.com/wildautumnwind/Digits-of-Pi)
+- [joshuaOgwang(Java)](https://github.com/joshuaOgwang/PI_To_The_Nth_Digit)
 - [asi14 (Java)](https://gitlab.com/asi14/karen-projects/blob/master/numbers/pi-n/java/Pi.java)
 - [Vekz (Python)](https://github.com/Vekz/Projects-Solutions/blob/master/Projects/Find_PI_to_the_Nth_Digit/pifinder.py)
 - [amarjeeth123(C)](https://github.com/amarjeeth123/amarjeet/blob/8391556b7aa9aac44a8d42bc0848454a943c3b04/Pi.c)
