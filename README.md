@@ -160,6 +160,8 @@ Numbers
 - [mchwalek (Clojure)](https://github.com/mchwalek/Projects/blob/clojure-solutions/Numbers/prime-factorization.clj)
 - [kvsingh (Python)](https://github.com/kvsingh/python-practice/blob/master/primeFactors.py)
 - [hkuchampudi (Java)](https://github.com/hkuchampudi/MegaProject_Solutions/blob/master/Numbers/prime_Factorization.java)
+- [viktorahlstrom (Bash)](https://github.com/viktorahlstrom/all/blob/master/coding-problems-solved/projects-solutions/pf.sh)
+- [anameus (JavaScript)](https://github.com/anameus/mathy-solutions/blob/master/primeFactorization/app.js)
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/pf.sh)
 - [igorfala (Python)](https://github.com/igorfala/karan-projects/blob/master/Numbers/prime.py)
 - [varunu28 (Python)](https://github.com/varunu28/100-Push-Project/blob/master/prime_factorization.py)
