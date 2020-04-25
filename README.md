@@ -4,8 +4,8 @@
 
 this page is rebuilt of [karan's projects solutions](https://github.com/karan/Projects-Solutions) repository
 
-now (2018/04/15) it merged all remain requests (recent request is [#562](https://github.com/karan/Projects-Solutions/pull/562))
-and fixed typo as i can
+now (2020/04/25) it merged all remain requests (recent request is [#633](https://github.com/karan/Projects-Solutions/pull/633))
+and fixed typo as i can.
 
 Numbers
 -------
