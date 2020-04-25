@@ -240,6 +240,7 @@ Numbers
 - [desertwebdesigns (Python)](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/mortgage.py)
 - [francis36012 (Java)](https://github.com/francis36012/karan-projects/blob/master/src/numbers/Mortgage.java)
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/mortgage.sh)
+- [Scalliwagging (Java)](https://github.com/Scalliwagging/Mortgage-Calculator/commit/709209fbe324cc74c10bc384692285e48a299944)
 - [mandeepbhutani (Python)](https://github.com/mandeepbhutani/Sample-Projects/blob/master/amort.py)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/7.%20Mortgage%20calculator.sql)
 
