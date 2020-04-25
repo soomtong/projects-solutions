@@ -382,6 +382,7 @@ Numbers
 - [hkuchampudi (Java)](https://github.com/hkuchampudi/MegaProject_Solutions/blob/master/Numbers/factorial_finder.java)
 - [kvsingh (Python)](https://github.com/kvsingh/python-practice/blob/master/factorial.py)
 - [iamvoid13 (C++)](https://github.com/iamvoid13/Programs/blob/master/src/factorial.cpp)
+- [nanashinogonbee (JavaScript)](https://github.com/nanashinogonbee/JSFactorial/blob/master/factorial.js)
 - [rakshith98(Python)](https://github.com/rakshith98/Problems/blob/master/factorial.py)
 - [MarcinMisiorny (PL/SQL)](https://github.com/MarcinMisiorny/Main/blob/master/Mega%20Project%20List/Numbers/16.%20Factorial%20finder.sql)
 
