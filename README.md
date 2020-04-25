@@ -358,6 +358,7 @@ Numbers
 - [hkuchampudi (Java)](https://github.com/hkuchampudi/MegaProject_Solutions/blob/master/Numbers/Creditcard.java)
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/ccv.sh)
 - [tiikeri (Python)](https://github.com/tiikeri/all/blob/master/python/ccv.py)
+- [brynnlet (Java)](https://github.com/brynnlet/CreditCardValidator)
 - [kevinchesser (Erlang)](https://github.com/kevinchesser/ccValidator/blob/master/creditCardValidator.escript)
 - [rozman50 (C++)](https://github.com/rozman50/Projects/blob/master/Numbers/Credit%20Card%20Validator.cpp)
 - [thebigJ007 (Python)](https://github.com/thebigJ007/smallprojectsolutions/blob/master/checksum.py)
