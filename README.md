@@ -410,6 +410,7 @@ Numbers
 - [aysark (Java)](https://github.com/aysark/Review/blob/master/Projects/src/ComplexNumbers.java)
 - [ppype (Python)](https://github.com/ppype/Complex-Number-Algebra/blob/master/programs/main.py)
 - [sijunhe (C)](https://github.com/sijunhe/Project-Programs/blob/master/c/complex.c)
+- [ahmedo42 (C++)](https://github.com/ahmedo42/My_Projects/blob/master/Complex%20Algebra.cpp)
 - [svadwlas (Scala)](https://github.com/svadwlas/Scala-Practical-Projects/blob/master/ComplexNumberAlgebra.scala)
 - [iamvoid13 (C++)](https://github.com/iamvoid13/Programs/blob/master/src/Complex_number_algebra.cpp)
 - [appi147 (C++)](https://github.com/appi147/cpp_mini_projects/blob/master/complex/complex.cpp)
