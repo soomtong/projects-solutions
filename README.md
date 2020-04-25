@@ -437,6 +437,7 @@ Numbers
 - [tiikeri (Python)](https://github.com/tiikeri/all/blob/master/python/coin.py)
 - [tiikeri (Java)](https://github.com/tiikeri/all/blob/master/java/coinflip.java)
 - [mandliya (C++)](https://github.com/mandliya/short-fun-projects/blob/master/coin-flip-simulation/coinFlip.cpp)
+- [wang-jennifer (Java)](https://github.com/wang-jennifer/coin-flip/blob/master/coinFlip.java)
 - [fzx-314 (C)](https://github.com/fzx-314/Fizzbuzz/blob/master/Flippingcoin.c)
 - [hbeckmann (C#)](https://github.com/hbeckmann/Practice-Exercises/blob/master/Practice/CoinFlip.cs)
 - [subtronic (Go)](https://github.com/subtronic/golearn/blob/master/flip%20the%20coin/main.go)
