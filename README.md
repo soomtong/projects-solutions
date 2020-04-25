@@ -264,6 +264,7 @@ Numbers
 - [tiikeri (Bash)](https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/change_return.sh)
 - [ryjo1026 (Java)](https://github.com/ryjo1026/Java-Practice/blob/master/ChangeReturn.java)
 - [rlingineni (C++)](https://gist.github.com/rlingineni/93b57d67e37134735df5)
+- [thoefut (C#)](https://github.com/thoefut/problemsetsolutions/blob/master/solutions/Change%20Calculator/Change%20Calculator.cs)
 - [CodeInnovator (Java)](https://github.com/CodeInnovator/Small-Projects/blob/master/JavaMegaProjectList/src/numbers/JavaMegaProjectList/codeInnovator/ChangeReturn.java)
 - [igorfala (Python)](https://github.com/igorfala/karan-projects/blob/master/Numbers/change.py)
 - [varunu28 (Python)](https://github.com/varunu28/100-Push-Project/blob/master/change_calculator.py)
