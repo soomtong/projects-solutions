@@ -326,6 +326,7 @@ Numbers
 - [jthomasprogrammer (Java)](https://github.com/jthomasprogrammer/Rooster)
 - [kingballer29 (Python)](https://github.com/kingballer29/Programming/blob/master/alarmClock.py)
 - [rlingineni (C#)](https://github.com/rlingineni/CsharpProblems/blob/master/alarmClock/alarmClock/Program.cs)
+- [khoa165 (Javascript)](https://github.com/khoa165/alarm-clock-js)
 - [JQuit96 (C#)](https://github.com/JQuit96/C-Sharp/blob/master/Alarm%20Clock/Program.cs)
 - [zdw27f (Python)](https://github.com/zdw27f/Projects/tree/master/Numbers/Alarm%20Clock_Timer)
 - [joshua-deans (Python)](https://github.com/joshua-deans/Sample-Projects/blob/master/alarm_clock.py)
