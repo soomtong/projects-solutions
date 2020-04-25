@@ -978,7 +978,8 @@ Web
 
 **CAPTCHA Maker** - Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms.
 
-- [Vinay18jan(C#)](https://github.com/Vinay18jan/CAPTCHA-with-ASP.net_MVC)
+- [Vinay18jan (C#)](https://github.com/Vinay18jan/CAPTCHA-with-ASP.net_MVC)
+- [lemonce (JavaScript)](https://github.com/lemonce/svg-captcha)
 
 Files
 -----
