@@ -108,6 +108,7 @@ Numbers
 - [Silverneo (Python)](https://github.com/Silverneo/pylearn/blob/master/Fibonacci.py)
 - [desertwebdesigns (Python)](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/fibonacci.py)
 - [aysark (Java)](https://github.com/aysark/Review/blob/master/Projects/src/FibonnacciSeq.java)
+- [dispatchedx (Python)](https://github.com/dispatchedx/Challenges/blob/master/codewars/3%20kyu/The_Millionth_Fibonacci_Kata.py)
 - [eac13 (C++)](https://github.com/eac13/all/blob/master/src/fibonacci.cpp)
 - [mukul13 (Java)](https://github.com/mukul13/poker/blob/master/fibonacci.java)
 - [Bhavika (C)](https://github.com/Bhavikaso/Project1/blob/master/fibonacci.c)
