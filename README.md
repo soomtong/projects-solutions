@@ -603,11 +603,12 @@ Text
 
 **Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
-- [eush77(Befunge)](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/fizzbuzz.bf)
+- [eush77 (Befunge)](https://github.com/eush77/Projects-Solutions/blob/solutions/Befunge/fizzbuzz.bf)
 - [tiikeri (Java)](https://github.com/tiikeri/all/blob/master/java/fizzbuzz.java)
 - [baarb (JavaScript)](https://github.com/baarb/FizzBuzzSolution/blob/master/FizzBuzzSolution.js)
 - [korabum (Python)](https://github.com/korabum/Projects/blob/master/Text/fizzbuzz.py)
 - [danman1979 (JavaScript)](https://github.com/danman1979/FizzBuzz/blob/master/fizzBuzz.js)
+- [Jayy77 (Kotlin)](https://github.com/Jayy77/kotlin-solution/blob/master/fizzbuzzkotlin.kt)
 - [Dinoosawruss (Python)](https://github.com/Dinoosawruss/Projects/tree/master/FizzBuzz)
 - [bajseps (C++)](https://github.com/bajseps/Little-projects/blob/master/FizzBuzz.cpp)
 - [Trollport (C++)](https://github.com/Trollport/FizzBuzz/blob/master/FizzBuzz.cpp)
